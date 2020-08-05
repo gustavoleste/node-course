@@ -6,7 +6,8 @@
   "scripts": {
     "callback": "node working-with-callback.js",
     "promise": "node working-with-promises.js",
-    "async": "node promises-with-async-await.js"
+    "async": "node promises-with-async-await.js",
+    "event": "node working-with-events.js"
   },
   "keywords": [],
   "author": "",
