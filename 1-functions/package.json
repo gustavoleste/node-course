@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "callback": "node work-with-callback.js"
+    "callback": "node working-with-callback.js",
+    "promise": "node working-with-promises.js"
   },
   "keywords": [],
   "author": "",
