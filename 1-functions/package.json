@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "callback": "node working-with-callback.js",
-    "promise": "node working-with-promises.js"
+    "promise": "node working-with-promises.js",
+    "async": "node promises-with-async-await.js"
   },
   "keywords": [],
   "author": "",
