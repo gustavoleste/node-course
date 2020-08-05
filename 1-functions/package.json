@@ -1,0 +1,12 @@
+{
+  "name": "1-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node work-with-callback.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
