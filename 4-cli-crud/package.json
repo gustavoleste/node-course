@@ -1,0 +1,20 @@
+{
+  "name": "4-cli-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --collect-coverage",
+    "start": "node src/index.js -h"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.9",
+    "jest": "^26.2.2"
+  },
+  "dependencies": {
+    "commander": "^6.0.0"
+  }
+}
